@@ -2,7 +2,7 @@
 lock "~> 3.11.0"
 
 set :application, "djpringle_portfolio"
-set :repo_url, "git@github.com:n305oul93/dpringle_portfolio.git"
+set :repo_url, "git@github.com:n305oul93/dez_pringle_portfolio.git"
 
 set :branch, :master
 set :deploy_to, "/home/deploy/djpringle_portfolio"
